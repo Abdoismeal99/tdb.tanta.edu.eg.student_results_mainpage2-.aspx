@@ -1,0 +1,16 @@
+table{
+    background-color: rgba(255, 255, 0, 0.897);
+ 
+}
+.txt{
+    display: grid;
+    justify-content: center;
+}
+.main{
+    display: grid;
+    justify-content: center;
+}
+table{
+    width: 50vh;
+    height: 100vh;
+}
